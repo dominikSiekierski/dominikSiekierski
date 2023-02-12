@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 123123123
+- I'm currently learning javaScript and Cypress.
 
 <!--
 **dominikSiekierski/dominikSiekierski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
